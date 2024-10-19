@@ -1,4 +1,4 @@
-# Omica OCR module
+#  OCR module
 
 OCR module that's intended to be used as main component of a sysytem to gather data from physical Clinical History documents, some of them filled by hand, and store them in a database for its future use.
 
@@ -12,9 +12,6 @@ Make sure to have installed Git in your machine.
 
 1. Clone the repository:
 
-``` bash
-git clone https://github.com/OMICA-BIO/omica-ocr.git
-```
 2. Create a Virtual Environment - this will help to test locally and create automatically the requirements.txt file
 
 ``` bash
