@@ -1,4 +1,4 @@
-#  OCR module
+#  AI OCR module
 
 OCR module that's intended to be used as main component of a sysytem to gather data from physical Clinical History documents, some of them filled by hand, and store them in a database for its future use.
 
